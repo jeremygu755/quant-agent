@@ -1,0 +1,8 @@
+openai
+yfinance
+feedparser
+alpaca-py
+python-dotenv
+pandas
+lxml
+requests
